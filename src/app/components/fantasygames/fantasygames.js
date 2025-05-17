@@ -1,3 +1,4 @@
+
 'use client'
 import React from "react";
 import Image from "next/image";
@@ -47,7 +48,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-01.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -56,7 +57,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-02.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -65,7 +66,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-03.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -74,7 +75,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-04.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -83,7 +84,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-06.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -92,7 +93,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-05.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -101,7 +102,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-06.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -110,7 +111,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-07.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -119,7 +120,7 @@ export default function Fantasygames() {
                   <Image
                     className="img-fluid"
                     src="/images/Sports-08.webp"
-                    alt="Welcome to Gold365"
+                    alt="Welcome to Play99Exch"
                     width={174}
                     height={235}      
                     />
@@ -165,7 +166,7 @@ export default function Fantasygames() {
                         <Image
                           className="img-fluid"
                           src="/images/slot_game-1.webp"
-                          alt="Gold365 Login ID"
+                          alt="Play99Exch Login ID"
                           width={360}
                           height={240}      
                           />
@@ -184,7 +185,7 @@ export default function Fantasygames() {
                       <Image
                           className="img-fluid"
                           src="/images/slot_game-2.webp"
-                          alt="Gold365 Login ID"
+                          alt="Play99Exch Login ID"
                           width={360}
                           height={240}      
                           />
@@ -203,7 +204,7 @@ export default function Fantasygames() {
                       <Image
                           className="img-fluid"
                           src="/images/slot_game-3.webp"
-                          alt="Gold365 Login ID"
+                          alt="Play99Exch Login ID"
                           width={360}
                           height={240}      
                           />                       
