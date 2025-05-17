@@ -29,7 +29,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Tons-of-Fantasy-Sports-Options.png"
-                alt="Gold365 ID"
+                alt="Play99Exch ID"
                 width={70}
                 height={70}      
                 />
@@ -55,7 +55,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/In-Game-Live-Betting-Options.png"
-                alt="Gold365 Login ID"
+                alt="Play99Exch Login ID"
                 width={70}
                 height={70}      
                 />
@@ -78,7 +78,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Simple-To-Use Interface.png"
-                alt="Gold365 ID"
+                alt="Play99Exch ID"
                 width={70}
                 height={70}      
                 />
@@ -103,7 +103,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Competitive-Odds-on-Multiple-Sports.png"
-                alt="Gold365 ID"
+                alt="Play99Exch ID"
                 width={70}
                 height={70}      
                 />
@@ -128,7 +128,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Safe-Payments.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
@@ -151,7 +151,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/247-Customer-Support.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
@@ -176,7 +176,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Special-Bonuses-and-Promotions.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
@@ -201,7 +201,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/In-Depth-Player-Statistics.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
@@ -225,7 +225,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Multi-Device-Support.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
@@ -248,7 +248,7 @@ export default function Whychooseus() {
             <Image
                 className="img-fluid"
                 src="/images/Quick-Withdrawal-Process.png"
-                alt="Welcome to Gold365"
+                alt="Welcome to Play99Exch"
                 width={70}
                 height={70}      
                 />
