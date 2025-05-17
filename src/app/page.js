@@ -170,7 +170,7 @@ export default function Home() {
         "name": "How do I sign up at Play99Exch?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It's incredibly easy to register. On our home page, click the "Sign Up" or "Register" button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
+          "text": "It's incredibly easy to register. On our home page, click the Sign Up or Register button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
         }
       },{
         "@type": "Question",
