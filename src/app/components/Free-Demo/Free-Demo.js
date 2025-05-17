@@ -14,7 +14,7 @@ export default function FreeDemo() {
                         <Image
                             className="img-fluid"
                             src="/images/Play99Exch-app-download.png"
-                            alt="Welcome to Gold365" 
+                            alt="Welcome to Play99Exch" 
                             width={555}
                             height={644}      
                             />
