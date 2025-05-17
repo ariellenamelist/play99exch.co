@@ -33,6 +33,7 @@ export default function Home() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
+    <meta name="google-site-verification" content="ucXXtK6AMZDyLJuJLjukop6nm3JYQQPKqwFv6uQPVEI" />
     
     <meta name="title" content="Welcome to Play99Exch"/>
     <meta name="description" content="Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now."/>
