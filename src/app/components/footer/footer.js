@@ -45,8 +45,8 @@ export default function Footer() {
                       </a>
                     </li>
                     <li className="listing">
-                      <a href="#">
-                        <span className="anc">Play99Exch</span>
+                      <a href="https://www.gold365.org.in">
+                        <span className="anc">Gold365</span>
                       </a>
                     </li>
                     <li className="listing">
@@ -98,7 +98,7 @@ export default function Footer() {
                   </div>
                   <div className="copyright">
                     <p>
-                      ©2025 Play99Exch .org.in – All rights reserved
+                      ©2025 play99exch.co – All rights reserved.
                       <br /> Play99Exch  is a licensed gaming company under the regulations
                       of Curacao and is certified to operate globally.
                     </p>
