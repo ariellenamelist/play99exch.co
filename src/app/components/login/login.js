@@ -14,7 +14,7 @@ export default function Login() {
 			<Image
 									className="img-fluid"
 									src="/images/logo.png"
-									alt="gold365"
+									alt="Play99Exch"
 									width={254}
 									height={65}      
 									/>
