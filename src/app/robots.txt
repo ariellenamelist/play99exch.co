@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /search?q={search_term_string}
+
+SiteMap: https://www.play99exch.co/sitemap.xml
