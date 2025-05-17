@@ -1,0 +1,73 @@
+.login {
+    width: 100%;
+    background-image: linear-gradient(#8a4e00, #116257);
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 100vh;
+}
+	 .loginInner1 {
+    width: 350px;
+    max-width: 90%;
+    margin: 15% auto;
+}
+
+
+.featured-box-login {
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 4px;
+    background: #fff;
+}
+.logFld {
+    width: 100%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    background: #ffffff;
+    border-radius: 4px;
+}
+.loginInner1 .log-logo {
+    margin-bottom: 20px;
+}
+.logFld p {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 1rem;
+    line-height: 150%;
+    font-size: 14px;
+}
+.logoLogin {
+    max-height: 65px;
+    max-width: 200px;
+}
+.login .form-group {
+    position: relative;
+}
+.login .form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.login .btn-submit {
+    color: #fff;
+    background-color: #8a4e00;
+    border-color: #8a4e00;
+    width: 100%;
+    margin: 0;
+    font-size: 16px;
+    border: 0;
+    border-radius: 6px;
+    padding: 6px 0;
+}

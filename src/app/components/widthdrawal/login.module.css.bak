@@ -1,0 +1,144 @@
+.global-container{
+	height:100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: transparent;
+}
+
+
+.card-title{ font-weight:300; }
+
+.btn{
+	font-size: 14px;
+	margin-top:20px;
+}
+
+
+.login-form{ 
+	width:325px;
+	margin:20px 20px 0px 20px;
+}
+
+.sign-up{
+	text-align:center;
+	padding:20px 0 0;
+}
+
+.alert{
+	margin-bottom:-30px;
+	font-size: 13px;
+	margin-top:20px;
+}
+
+.login-container {
+    /*padding: 30px 0;*/
+	height: 100vh;
+    background-image: linear-gradient(#8a4e00, #116257);
+	font-family: "Rubik", sans-serif;
+	flex-direction:column;
+}
+
+.login-container .image > img {
+    max-width: 254px;
+}
+
+.login-container h3.card-title {
+    font-family: "Rubik", sans-serif;
+    color: #000;
+    margin-bottom: 0;
+    font-family: "Rubik", sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.login-container form {
+    padding-top: 0px;
+    margin-top: 5px;
+}
+
+.login-container form .form-control {
+    border: 1px solid #333;
+    padding: 10px;
+    height: auto;
+}
+
+
+.login-container form button.btn.btn-primary {
+    background: #000;
+    outline: none;
+    border: 0;
+	background-color: #8a4e00;
+    border-color: #8a4e00;
+    color: #fff;
+	border-radius:3px;
+}
+
+.login-container form .sign-up {
+    line-height: 114%;
+    color: #000;
+    font-size: 90%;
+    padding-top: 5px;
+    text-align: left;
+	font-size: 11px;
+}
+
+.login-container .field-01 {
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.login-container  .field-01 .form-control {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ced4da;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.login-container form .field-01 .form-control {font-size: 1rem;color: #495057;}
+
+
+.login-container form .field-01 i.fa {
+    color: #000;
+    position: absolute;
+    right: 10px;
+	font-size: 16px;
+}
+
+.login-container form button.btn.btn-primary:focus {
+    background: #000;
+}
+
+.login-container form button.btn.btn-primary:hover {
+    color: #212529;
+}
+
+
+.login-container form button.btn.btn-primary i.fa {
+    position: absolute;
+    right: 10px;
+}
+
+.login-container form button.btn.btn-primary {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0;
+    margin-top: 4px;
+    padding: 7px 0;
+	border-radius: 3px;
+}
+
+.login-container form .form-group {
+    margin-bottom: 20px;
+}
