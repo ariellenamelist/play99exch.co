@@ -25,7 +25,7 @@ export default function CustomerSupport() {
             <p>Here's how to get in touch with them:</p>
             <p>
               <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" />{" "}
-              <strong>Email:</strong> Send an email to Play99Exchinfo@gmail.com.
+              <strong>Email:</strong> Send an email to play99exchinfo@gmail.com.
             </p>
             <p>
               <img src="images/box.jpg" alt="DesignBox" className="img-fluid box-ic" />{" "}
