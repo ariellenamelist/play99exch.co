@@ -160,7 +160,8 @@ export default function Home() {
     }
     ` }} />
     
-    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
+    <script
+  type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -169,7 +170,7 @@ export default function Home() {
         "name": "How do I sign up at Play99Exch?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It's incredibly easy to register. On our home page, click the "Sign Up" or "Register" button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
+          "text": "It's incredibly easy to register. On our home page, click the \\"Sign Up\\" or \\"Register\\" button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
         }
       },{
         "@type": "Question",
@@ -190,7 +191,7 @@ export default function Home() {
         "name": "What options are available for downloading the Play99Exch apps?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Visit the official website to download the Play99Exch app, which is compatible with iOS and Android. When a warning appears during the initial installation, you can choose to disregard it and click "Install Anyway."”"
+          "text": "Visit the official website to download the Play99Exch app, which is compatible with iOS and Android. When a warning appears during the initial installation, you can choose to disregard it and click \\"Install Anyway.\\""
         }
       },{
         "@type": "Question",
@@ -204,7 +205,7 @@ export default function Home() {
         "name": "What if I forget my Play99Exch password?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply click the "Forgot Password" option on the login page if you can't remember your password. You will be asked to enter your WhatsApp number or registered email address. Our support staff can also be reached directly on WhatsApp."
+          "text": "Simply click the \\"Forgot Password\\" option on the login page if you can't remember your password. You will be asked to enter your WhatsApp number or registered email address. Our support staff can also be reached directly on WhatsApp."
         }
       },{
         "@type": "Question",
@@ -222,7 +223,9 @@ export default function Home() {
         }
       }]
     }
-    ` }} />
+    `,
+  }}
+/>
     
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
     {
