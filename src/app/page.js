@@ -23,68 +23,67 @@ import Footer from "./components/footer/footer";
 export default function Home() {
   
 
-    {/*<!-- Schema Markup (JSON-LD) for Play99Exch -->*/}  
+    {/*<!-- Schema Markup (JSON-LD) for Gold365 -->*/}  
 
     
 
   return (
     <div>
-    <title>Welcome to Play99Exch</title>
+    <title>Welcome to Play99Exch </title>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
-    <meta name="google-site-verification" content="ucXXtK6AMZDyLJuJLjukop6nm3JYQQPKqwFv6uQPVEI" />
     
-    <meta name="title" content="Welcome to Play99Exch"/>
-    <meta name="description" content="Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now."/>
-    <meta name="keywords" content="welcome to play99exch, play 99 exch, play99exch, play99exch login, play99exch com login, play99exch ID, play99exch register, play99 login, play99exch ID login, play99exch app download, play99exch app download apk"/>
-    <meta name="author" content="Play99Exch"/>
-    <meta name="publisher" content="Play99Exch"/>
+    <meta name="title" content="Welcome to gold365"/>
+    <meta name="description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
+    <meta name="keywords" content="welcome to gold365, gold365, gold365 login, gold365 login ID, gold365 ID, gold365 login ID and password, gold365 download apk, gold365 green, gold365 registration, gold365.green login link"/>
+    <meta name="author" content="Gold365"/>
+    <meta name="publisher" content="Gold365"/>
     <meta httpEquiv="Content-Language" content="en-IN"/>
-    <meta name="reply-to" content="support@play99exch.co"/>
-    <meta name="copyright" content="https://www.play99exch.co"/>
-    <link rel="canonical" href="https://www.play99exch.co"/>
-    <link rel="alternate" type="application/rss+xml" href="https://www.play99exch.co/sitemap.xml" />
-    <link rel="alternate" type="application/rss+xml" href="https://www.play99exch.co/images_sitemap.xml" />
+    <meta name="reply-to" content="support@gold365.org.in"/>
+    <meta name="copyright" content="https://www.gold365.org.in"/>
+    <link rel="canonical" href="https://www.gold365.org.in"/>
+    <link rel="alternate" type="application/rss+xml" href="https://www.gold365.org.in/sitemap.xml" />
+    <link rel="alternate" type="application/rss+xml" href="https://www.gold365.org.in/images_sitemap.xml" />
 
-    {/*<!-- Open Graph meta tags for Play99Exch -->*/}
-    <meta property="og:url" content="https://www.play99exch.co/"/>
+    {/*<!-- Open Graph meta tags for Gold365 -->*/}
+    <meta property="og:url" content="https://www.gold365.org.in/"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Welcome to Play99Exch"/>
-    <meta property="og:description" content="Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now."/>
-    <meta property="og:image" content="https://www.play99exch.co/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
-    <meta property="og:logo" content="https://www.play99exch.co/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
+    <meta property="og:title" content="Welcome to Gold365"/>
+    <meta property="og:description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
+    <meta property="og:image" content="https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
+    <meta property="og:logo" content="https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
 
-    {/*<!-- Twitter Card meta tags for Play99Exch -->*/}
+    {/*<!-- Twitter Card meta tags for Gold365 -->*/}
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:domain" content="Play99Exch"/>
-    <meta name="twitter:url" content="https://www.play99exch.co/"/>
-    <meta name="twitter:title" content="Welcome to Play99Exch"/>
-    <meta name="twitter:description" content="Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now."/>
-    <meta name="twitter:image" content="https://www.play99exch.co/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
+    <meta name="twitter:domain" content="Gold365"/>
+    <meta name="twitter:url" content="https://www.gold365.org.in/"/>
+    <meta name="twitter:title" content="Welcome to Gold365"/>
+    <meta name="twitter:description" content="Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now."/>
+    <meta name="twitter:image" content="https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
 
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
     {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "url": "https://www.play99exch.co/",
-      "name": "Welcome to Play99Exch",
-      "description": "Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now.",
+      "url": "https://www.gold365.org.in/",
+      "name": "Welcome to Gold365",
+      "description": "Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now.",
       "publisher": {
         "@type": "Organization",
-        "name": "Welcome to Play99Exch",
-        "url": "https://www.play99exch.co/"
+        "name": "Welcome to Gold365",
+        "url": "https://www.gold365.org.in/"
       },
       "sameAs": [
-        "https://www.instagram.com/play99exch__official"
+        "https://www.instagram.com/gold365official/"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://www.play99exch.co/"
+        "@id": "https://www.gold365.org.in/"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.play99exch.co/search?q={search_term_string}",
+        "target": "https://www.gold365.org.in/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     }
@@ -94,10 +93,10 @@ export default function Home() {
     {
       "@context": "https://schema.org",
       "@type": "SportsOrganization",
-      "name": "Welcome to Play99Exch",
-      "url": "https://www.play99exch.co/",
-      "logo": "https://www.play99exch.co/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75",
-      "description": "Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now.",
+      "name": "Welcome to Gold365",
+      "url": "https://www.gold365.org.in/",
+      "logo": "https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75",
+      "description": "Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now.",
       "sport": "Cricket",
       "foundingDate": "2018",
       "founders": [
@@ -109,12 +108,12 @@ export default function Home() {
       "contactPoint": {
         "@type": "ContactPoint",
         "contactType": "Customer Service",
-        "email": "support@play99exch.co",
+        "email": "support@gold365.com",
         "areaServed": "IN",
         "availableLanguage": "English"
       },
       "sameAs": [
-        "https://www.instagram.com/play99exch__official"
+        "https://www.instagram.com/gold365official/"
       ]
     }
     ` }} />
@@ -123,9 +122,9 @@ export default function Home() {
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Welcome to Play99Exch",
-      "url": "https://www.play99exch.co/",
-      "image": "https://www.play99exch.co/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75",
+      "name": "Welcome to Gold365",
+      "url": "https://www.gold365.org.in/",
+      "image": "https://www.gold365.org.in/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75",
       "priceRange": "₹500+",
       "telephone": "+1 (555) 736-3362",
       "address": {
@@ -156,7 +155,7 @@ export default function Home() {
         "closes": "23:59"
       }],
       "sameAs": [
-        "https://www.instagram.com/play99exch__official"
+        "https://www.instagram.com/gold365official/"
       ]
     }
     ` }} />
@@ -167,59 +166,59 @@ export default function Home() {
       "@type": "FAQPage",
       "mainEntity": [{
         "@type": "Question",
-        "name": "How do I sign up at Play99Exch?",
+        "name": "How do I sign up at Gold365?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It's incredibly easy to register. On our home page, click the Sign Up or Register button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
+          "text": "Registration is very simple. Click the “Sign Up” or “Register” button on our home page. You can also get your customer ID directly from the WhatsApp (recommended) button on the home page. You will be asked to provide your full name, active WhatsApp number, and email address to get started."
         }
       },{
         "@type": "Question",
-        "name": "Are there new player welcome bonuses at Play99Exch?",
+        "name": "Are there new player welcome bonuses at Gold365?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Indeed, promotions and welcome offers are available to both new and returning players. We currently offer a 100% welcome bonus on your initial deposit. Additionally, we offer 1% lifetime referral awards in addition to unique referral bonuses for longtime users."
+          "text": "Yes, welcome offers and promotions are not only for new players but also old ones. Our current welcome bonus 100% bonus on your first deposit. Moreover, for old users, we have special bonuses on referrals + 1% lifetime referral bonuses."
         }
       },{
         "@type": "Question",
-        "name": "How many betting options are available on Play99Exch?",
+        "name": "How many betting options are available on Gold365?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Popular sports betting (such as football, cricket, and tennis), live casino, virtual sports, and hundreds of other activities are just a few of the many betting options offered by Play99Exch. The Play99Exch app's side menu or top bar allows you to view all of the lists."
+          "text": "Gold365 has tons of betting options, including popular sports betting (e.g., football, cricket, tennis), live casino, virtual sports, and hundreds of other games. You can check all the lists from the top bar or side menu (in the Gold365 app)."
         }
       },{
         "@type": "Question",
-        "name": "What options are available for downloading the Play99Exch apps?",
+        "name": "What options are available for downloading the Gold365 apps?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Visit the official website to download the Play99Exch app, which is compatible with iOS and Android. When a warning appears during the initial installation, you can choose to disregard it and click "Install Anyway."”"
+          "text": "Download the Gold365 app from the official website, which is available for Android and iOS. To install for the first time, you’re prompted with a warning, you can ignore it and click on “Install Anyway.”"
         }
       },{
         "@type": "Question",
-        "name": "How long does it take to get funds in my Play99Exch account after a deposit?",
+        "name": "How long does it take to get funds in my Gold365 account after a deposit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Deposits made using UPI and E-Wallets are typically credited in a matter of seconds. Depending on the banking system, net banking transfers (RTGS, NEFT, and IMPS) take five minutes. The timings for cryptocurrency deposits may change because they need network confirmations."
+          "text": "UPI and E-Wallet deposits are generally credited within seconds. Net Banking transfers (IMPS, NEFT, RTGS) take 5 minutes, depending on the banking system. Cryptocurrency deposits require network confirmations, and for that, the timings may vary."
         }
       },{
         "@type": "Question",
-        "name": "What if I forget my Play99Exch password?",
+        "name": "What if I forget my Gold365 password?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply click the "Forgot Password" option on the login page if you can't remember your password. You will be asked to enter your WhatsApp number or registered email address. Our support staff can also be reached directly on WhatsApp."
+          "text": "If you have forgotten your password, just click the “Forgot Password” link on the login page. You will be prompted to input your registered email address or WhatsApp number. You can also directly contact our support team on WhatsApp."
         }
       },{
         "@type": "Question",
         "name": "How do I get customer support if I face any problem?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "We offer 24/7 one-on-one customer service from actual people, not chatbots. We can also be reached by live conversation on WhatsApp."
+          "text": "We provide one-on-one customer assistance 24×7 with real humans (not chatbots). You can also get in touch with us via WhatsApp live chat."
         }
       },{
         "@type": "Question",
         "name": "What if a match or an event on which I have bet is cancelled?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Events that are canceled or postponed are examples of circumstances that fall under our betting terms. Typically, bets on canceled events are null and void; the money is returned to your Play99Exch balance."
+          "text": "Our betting conditions include situations such as events being cancelled or postponed. Bets on cancelled events are usually void, and your bet is reimbursed, and the amount is credited to your Gold365 balance."
         }
       }]
     }
@@ -229,12 +228,12 @@ export default function Home() {
     {
       "@context": "https://schema.org",
       "@type": "Product",
-      "name": "Welcome to Play99Exch",
-      "description": "Play99Exch is the world's largest gaming website. More than 3500+ sports games are available daily on Play99Exch.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposits and withdrawals. The highest odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now.",
+      "name": "Welcome to Gold365",
+      "description": "Gold365 is the world's largest gaming website. More than 1500+ sports games available daily on Gold365.com website. Cricket - Football - Tennis - Horse Racing - Rummy - Poker - Teenpatti - Ludo. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Gold365 account now.",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "79254"
+        "reviewCount": "49254"
       },
       "review": [
         {
@@ -249,7 +248,7 @@ export default function Home() {
             "bestRating": "5"
           },
           "datePublished": "2025-02-21",
-          "reviewBody": "Absolutely impressed with Play99Exch! The service is fast, reliable, and perfect for anyone serious about online cricket betting. I’ve tried a few platforms, but this one stands out as the #1 cricket betting ID provider platform. Their support team is responsive and professional. Highly recommended!"
+          "reviewBody": "Absolutely impressed with Gold365! The service is fast, reliable, and perfect for anyone serious about online cricket betting. I’ve tried a few platforms, but this one stands out as the #1 cricket betting ID provider platform. Their support team is responsive and professional. Highly recommended!"
         },
         {
           "@type": "Review",
@@ -263,7 +262,7 @@ export default function Home() {
             "bestRating": "5"
           },
           "datePublished": "2025-01-18",
-          "reviewBody": "Play99Exch never disappoints! I’ve been using their service for a while now, and it’s always fast, secure, and super reliable. Whether you're a beginner or experienced, it's the #1 cricket betting ID provider platform you can trust. Smooth experience from registration to placing bets—highly recommended!"
+          "reviewBody": "Gold365 never disappoints! I’ve been using their service for a while now, and it’s always fast, secure, and super reliable. Whether you're a beginner or experienced, it's the #1 cricket betting ID provider platform you can trust. Smooth experience from registration to placing bets—highly recommended!"
         },
         {
           "@type": "Review",
@@ -277,13 +276,13 @@ export default function Home() {
             "bestRating": "5"
           },
           "datePublished": "2025-04-27",
-          "reviewBody": "Been using Play99Exch for a while now, and it's become my go-to. Betting on cricket and football is super easy, and I’ve never had an issue with deposits or withdrawals. Plus, their support team is always quick to respond. No complaints—just solid betting all around."
+          "reviewBody": "Been using Gold365 for a while now, and it's become my go-to. Betting on cricket and football is super easy, and I’ve never had an issue with deposits or withdrawals. Plus, their support team is always quick to respond. No complaints—just solid betting all around."
         }
       ]
     }
     ` }} />
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-E8Y2Y6J9DB" ></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YDZMBMFVZ" ></script>
     <script
       dangerouslySetInnerHTML={{
         __html: `
@@ -291,7 +290,7 @@ export default function Home() {
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-E8Y2Y6J9DB');
+          gtag('config', 'G-3YDZMBMFVZ');
         `,
       }}
     />
