@@ -17,13 +17,12 @@ export default function HowtoResetPassword() {
                     {" "}
                     How to Reset Play99Exch Password?
                   </h3>{" "}
+                        <p>You shouldn't be alarmed if you can't remember your Play99Exch password. It is actually the most prevalent issue. Approximately 50% of our clients contact us to change their account passwords.</p>
                   <br />
                   <div className="elcontainer text-left">
                     
                     <ol>
-                      <li>
-                      You shouldn't be alarmed if you can't remember your Play99Exch password. It is actually the most prevalent issue. Approximately 50% of our clients contact us to change their account passwords.
-                    </li>
+                      
                     <li>Here are the steps to follow if you can't remember yours:</li>
                       <li>Start by utilizing our website's live chat feature. </li>
                       <li>
