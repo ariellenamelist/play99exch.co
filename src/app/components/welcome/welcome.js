@@ -86,7 +86,7 @@ export default function Welcome() {
 					<div className="col-12">
 					<div className="left text-center">
                         <h1 className="elementor-heading-title elementor-size-default">
-                            Welcome to Play99Exch – <br/> India’s #1 Online Betting Platform for Sports and Casino Games
+                            Welcome to Play99Exch – India’s #1 Online Betting <br/> Platform for Sports and Casino Games
 
                         </h1>
                         <br />
