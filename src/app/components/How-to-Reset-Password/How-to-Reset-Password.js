@@ -20,7 +20,7 @@ export default function HowtoResetPassword() {
                         </div>
                   <p>You shouldn't be alarmed if you can't remember your Play99Exch password. It is actually the most prevalent issue. Approximately 50% of our clients contact us to change their account passwords.</p>
                         <p><b>Here are the steps to follow if you can't remember yours:</b></p>            
-               
+          
                   <div className="elcontainer text-left">
                     
                     <ol>
