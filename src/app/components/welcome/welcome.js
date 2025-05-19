@@ -19,7 +19,7 @@ export default function Welcome() {
             {
               breakpoint: 768, // screens less than 768px
               settings: {
-                slidesToShow: 3,
+                slidesToShow: 1,
                 slidesToScroll: 1,
               },
             },
