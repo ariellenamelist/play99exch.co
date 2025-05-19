@@ -60,7 +60,7 @@ export default function HowtoResetPassword() {
             </div>
             <br />
           </div>
-        </div>
+    
              
         </>
     )
