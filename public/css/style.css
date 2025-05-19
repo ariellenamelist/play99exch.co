@@ -636,7 +636,8 @@ body a{
 .section-one.section-one-8 {}
 
 .section-one.section-one-8 h2.elementor-heading-title, 
-.section-one.section-one-9c h2.elementor-heading-title {
+.section-one.section-one-9c h2.elementor-heading-title,
+.section-one.section-one-14 h2.elementor-heading-title {
     text-align: center;
     padding-bottom: 40px;
 }
