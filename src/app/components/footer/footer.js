@@ -35,7 +35,7 @@ export default function Footer() {
                   </p>
                   <ul className="ul">
                     <li className="listing">
-                      <a href="#">
+                      <a href="https://www.cricbet99.vip/">
                         <span className="anc">CricBet99</span>
                       </a>
                     </li>
@@ -109,7 +109,7 @@ export default function Footer() {
           </div>
 
           <div className="whatsapp-button">
-            <a href="https://wa.me/919991306689">
+            <a href="https://wa.me/918441068489">
             <Image
                             className="img-fluid"
                             src="/images/wpi.png"
