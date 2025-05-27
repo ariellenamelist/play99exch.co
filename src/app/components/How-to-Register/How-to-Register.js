@@ -38,7 +38,7 @@ export default function HowtoRegister () {
     <div className="text-left anc-tab">
       <a
         className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-        href="#"
+        href="https://wa.me/918441068489"
       >
         <span className="elementor-button-content-wrapper">
           <span className="elementor-button-text">Let's Play99Exch Sign-Up Now</span>
@@ -79,7 +79,7 @@ export default function HowtoRegister () {
                 <div className="text-left anc-tab">
                 <a
                     className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                    href="#"
+                    href="https://wa.me/918441068489"
                 >
                     <span className="elementor-button-content-wrapper">
                     <span className="elementor-button-text">Get Play99Exch  Login ID</span>
@@ -118,7 +118,7 @@ export default function HowtoRegister () {
                 <div className="text-left anc-tab">
                 <a
                     className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                    href="#"
+                    href="https://wa.me/918441068489"
                 >
                     <span className="elementor-button-content-wrapper">
                     <span className="elementor-button-text">Get Play99Exch APK Download Now</span>
