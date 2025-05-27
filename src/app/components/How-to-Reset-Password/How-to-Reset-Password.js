@@ -51,7 +51,7 @@ export default function HowtoResetPassword() {
             <div className="text-center anc-tab">
               <a
                 className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                href="#"
+                href="https://wa.me/918441068489"
               >
                 <span className="elementor-button-content-wrapper">
                   <span className="elementor-button-text">Let's Reset Play99Exch Password</span>
