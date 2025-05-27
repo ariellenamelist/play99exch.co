@@ -23,7 +23,7 @@ We therefore support you with our 100% transparency play if you wish to wager on
                     <div className="text-left anc-tab">
                         <a
                         className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                        href="#"
+                        href="https://wa.me/918441068489"
                         >
                         <span className="elementor-button-content-wrapper">
                             <span className="elementor-button-text">Get Play99Exch Login ID</span>
