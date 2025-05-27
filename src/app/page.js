@@ -29,12 +29,12 @@ export default function Home() {
 
   return (
     <div>
-    <title>Welcome to Play99Exch </title>
+    <title>Welcome to Play99Exch — Get Quick Play99Exch Login ID today's</title>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="google-site-verification" content="ucXXtK6AMZDyLJuJLjukop6nm3JYQQPKqwFv6uQPVEI" />
-    <meta name="title" content="Welcome to Play99Exch"/>
+    <meta name="title" content="Welcome to Play99Exch — Get Quick Play99Exch Login ID today's"/>
     <meta name="description" content="There is no doubt that Play99Exch is the largest gaming website in the world. More than 4500+ sports games are available daily on Play99Exch.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a Play99Exch account now."/>
     <meta name="keywords" content="welcome to play99exch, play 99 exch, play99exch, play99exch login, play99exch com login, play99exch ID, play99exch register, play99 login, play99exch ID login, play99exch app download, play99exch app download apk"/>
     <meta name="author" content="Play99Exch"/>
